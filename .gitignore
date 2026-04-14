@@ -1,0 +1,16 @@
+# raw data files - too large for github
+olist_customers_dataset.csv
+olist_geolocation_dataset.csv
+olist_order_items_dataset.csv
+olist_order_payments_dataset.csv
+olist_order_reviews_dataset.csv
+olist_orders_dataset.csv
+olist_products_dataset.csv
+olist_sellers_dataset.csv
+product_category_name_translation.csv
+automatic_stations_codes_2000_2021.csv
+automatic_weather_stations_inmet_brazil_2000_2021.csv
+
+# python cache
+__pycache__/
+.ipynb_checkpoints/
