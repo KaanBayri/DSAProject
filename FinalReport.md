@@ -2,6 +2,7 @@
 
 **Final Report**
 **Kaan Bayri**
+I've asked Claude to turn the word document into md file.
 
 ---
 
