@@ -1,7 +1,9 @@
 # Statistical Analysis of Effects of Weather Conditions on Consumer Behavior and Return Rates
 
 **Final Report**
+
 **Kaan Bayri**
+
 I've asked Claude to turn the word document into md file.
 
 ---
